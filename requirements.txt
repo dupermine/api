@@ -1,0 +1,4 @@
+fastapi
+yandex_music
+uvicorn
+aiohttp
